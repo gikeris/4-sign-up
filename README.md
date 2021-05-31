@@ -3,21 +3,23 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Mergaite
+# Sign up
 
 _29 group website project_
 
 
-Site published at https://gikeris.github.io/3-mergait/
+Site published at https://gikeris.github.io/4-sign-up/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+Design: [Sign-up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
 ## Project features
 
 - Github pages
-- png images
-- fixed width content
+- multi-page (sign up, sign in, forgot password)
 - desktop only
+- absolute center
+- css blur
+- form
 
 ## Authors
 
