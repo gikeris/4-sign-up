@@ -15,9 +15,24 @@ main{
     background-color: yellow;
 }
 
+.bottom-links > a {
+    background-color: red;
+}
+
+.main-title{
+    font-size: 60px;
+}
+
 .right-column {
     width: 60%;
     float: left;
     background-color: pink;
 }
 
+.close{
+
+}
+
+.form{
+
+}
